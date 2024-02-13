@@ -13,6 +13,7 @@ Meu próximo passo é aprofundar meu conhecimento em Spring Boot, AWS e finaliza
 Se você tiver alguma sugestão ou se quiser colaborar, sinta-se à vontade para entrar em contato. 
 
 ## Referencias
-[DevDojo](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
+[DevDojo](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H)
+
 
 
